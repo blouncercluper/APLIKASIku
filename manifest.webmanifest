@@ -1,0 +1,17 @@
+{
+  "name": "BLOUNCERCLUPER FINANCE",
+  "short_name": "BLOUNCER",
+  "description": "BlouncerCluper personal and business finance manager",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7f5",
+  "theme_color": "#102a24",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
